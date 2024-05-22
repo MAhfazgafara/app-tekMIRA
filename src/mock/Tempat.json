@@ -1,0 +1,424 @@
+[
+  {
+    "slug": "lapangan-tenis-outdoor-1",
+    "kategori": "Tenis",
+    "nama": "Lapangan Tenis Outdoor 1",
+    "deskripsi": "Lapangan tenis ini bukan hanya tempat yang ideal untuk bermain tenis, tetapi juga tempat yang cocok untuk bersantai dan berolahraga.",
+    "img": ["tns1-1.png","tns1-2.png","tns1-3.png","tns1-4.png","tns1-5.png"],
+    "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
+    "spesifikasi": {
+      
+    }
+  },
+  {
+    "slug": "lapangan-tenis-outdoor-2",
+    "kategori": "Tenis",
+    "nama": "Lapangan Tenis Outdoor 2",
+    "deskripsi": "Lapangan tenis ini bukan hanya tempat yang ideal untuk bermain tenis, tetapi juga tempat yang cocok untuk bersantai dan berolahraga.",
+    "img": ["tns2-1.png","tns2-2.png","tns2-3.png","tns2-4.png","tns2-5.png"],
+    "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
+    "spesifikasi": {
+      "ukuran": "6 x 4m",
+      "hubungi": "08112330483",
+      "kapasitas": 20
+    }
+  },
+  {
+    "slug": "ruang-rapat-lantai-14 Utara",
+    "kategori": "Ruang Rapat",
+    "harga": 1500000,
+    "nama": "Ruang Rapat Lantai 14 Utara",
+    "deskripsi": "Ruang Rapat Lantai 14 Utara ini adalah tempat untuk mengadakan pertemuan eksternal ataupun rapat internal. Memiliki fasilitas yang dapat memenuhi pertemuan dan kebutuhan anda dengan nyaman.",
+    "img": ["r14-1u.png","r14-2u.png","r14-3u.png","r14-4u.png","r14-5u.png","r14-6u.png"],
+    "fasilitas": ["AC", "Projektor", "Wifi", "Speaker", "Papan Tulis"],
+    "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
+    "spesifikasi": {
+      "ukuran": "6 x 4m",
+      "hubungi": "08112330483",
+      "kapasitas": 20
+    }
+  },
+  {
+    "slug": "ruang-amphitheater",
+    "kategori": "Ruang Rapat",
+    "harga": 1500000,
+    "nama": "Ruang Amphitheater",
+    "deskripsi": "Ruang Rapat Amphitheater ini adalah tempat untuk mengadakan pertemuan eksternal ataupun rapat internal. Memiliki fasilitas yang dapat memenuhi pertemuan dan kebutuhan anda dengan nyaman.",
+    "img": ["ra1.png","ra2.png","ra3.png","ra4.png","ra4.png","ra4.png","ra7.png","ra8.png"],
+    "fasilitas": ["AC", "Projektor", "Wifi", "Speaker", "Papan Tulis", "Microphone"],
+    "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
+    "spesifikasi": {
+      "ukuran": "6 x 4m",
+      "hubungi": "08112330483",
+      "kapasitas": 20
+    }
+  },
+  {
+    "slug": "wisma-sudirman-2",
+    "kategori": "Wisma",
+    "kamar":[
+      {
+        "img": ["w2-r1-1.png", "w2-r1-2.png"],
+        "nama": "Room 1.1",
+        "harga": 200000,
+        "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+        "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+        "makananMinuman": ["Free bottled water"],
+        "hiburan": ["30-inch LCD TV"],
+        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      },
+      {
+        "img": ["w2-r2-1.png", "w2-r2-2.png"],
+        "nama": "Room 1.2",
+        "harga": 200000,
+        "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+        "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+        "makananMinuman": ["Free bottled water"],
+        "hiburan": ["30-inch LCD TV"],
+        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      },
+      {
+        "img": ["w2-r3-1.png", "w2-r3-2.png"],
+        "nama": "Room 2.1",
+        "harga": 200000,
+        "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+        "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+        "makananMinuman": ["Free bottled water"],
+        "hiburan": ["30-inch LCD TV"],
+        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      },
+      {
+        "img": ["w2-r4-1.png", "w2-r4-2.png", "w2-r4-3.png"],
+        "nama": "Room 2.2",
+        "harga": 200000,
+        "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+        "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+        "makananMinuman": ["Free bottled water", "Room service (limited)"],
+        "hiburan": ["30-inch LCD TV"],
+        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      }
+    ],
+    "nama": "Wisma Sudirman 2",
+    "deskripsi": "Wisma tekMIRA memiliki kamar-kamar yang luas dan modern dengan berbagai tipe, mulai dari standard hingga suite. Setiap kamar dilengkapi dengan AC, TV, Wi-Fi, dan kamar mandi pribadi.",
+    "img": ["w2-1.png","w2-2.png","w2-3.png","w2-4.png","w2-5.png","w2-6.png","w2-7.png","w2-8.png","w2-9.png","w2-10.png","w2-11.png","w2-12.png","w2-13.png","w2-14.png"],
+    "fasilitas": [["Alun-Alun Kota Bandung","1 km"],["Paskal Hyper Square","20 km"],["Bandung Train Station","100 km"]],
+    "detailFasilitas": {
+      "bandara": [["Soekarno-Hatta Internasional","50 km"], ["Kertajati Internasional","60 km"]],
+      "rumahSakit": [["Hasan Sadikin Bandung","20 km"],["Maya Panda Hospital","100 km"]],
+      "transportasiUmum": [["Stasiun Bandung","5 km"], ["Stasiun Leuwipanjang","5 km"], ["Stasiun Kereta Cepat Whoosh (Padalarang)","5 km"], ["Stasiun Kereta Cepat Whoosh (Tegalluar)","5 km"]],
+      "belanja": [["Cihamplas Walk","5 km"], ["Paris Van Java","5 km"], ["Paskal Hyper Square","5 km"], ["Bandung Indah Plaza","5 km"]],
+      "areaLuar": [["Alun-alun Kota Bandung","5 km"], ["Taman Lalulintas","5 km"], ["Jalan Braga","5 km"], ["Jalan Sudirman","5 km"]]
+    },
+    "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
+    "spesifikasi": {
+      "ukuran": "-",
+      "hubungi": "08112330483",
+      "kapasitas": "-"
+    }
+  },
+  {
+    "slug": "wisma-sudirman-3",
+    "kategori": "Wisma",
+    "kamar":[
+      {
+      "img": ["w3-r1-1.png", "w3-r1-2.png", "w3-r1-3.png", "w3-r1-4.png"],
+      "nama": "Room 1.1",
+      "harga": 250000,
+      "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+      "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+      "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+      "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+      "makananMinuman": ["-"],
+      "hiburan": ["30-inch LCD TV"],
+      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+    },
+    {
+      "img": ["w3-r2-1.png", "w3-r2-2.png", "w3-r2-3.png", "w3-r2-4.png"],
+      "nama": "Room 1.2",
+       "harga": 250000,
+      "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+      "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+      "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+      "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+      "makananMinuman": ["-"],
+      "hiburan": ["30-inch LCD TV"],
+      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+    },
+    {
+      "img": ["w3-r21-1.png", "w3-r21-2.png", "w3-r21-3.png", "w3-r21-4.png"],
+      "nama": "Room 2.1",
+       "harga": 250000,
+      "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+      "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+      "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+      "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+      "makananMinuman": ["-"],
+      "hiburan": ["30-inch LCD TV"],
+      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+    },
+    {
+      "img": ["w3-r22-1.png", "w3-r22-2.png", "w3-r22-3.png", "w3-r22-4.png"],
+      "nama": "Room 2.2",
+       "harga": 250000,
+      "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+      "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+      "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+      "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+      "makananMinuman": ["-"],
+      "hiburan": ["30-inch LCD TV"],
+      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+    },
+    {
+      "img": ["w3-r23-1.png", "w3-r23-2.png", "w3-r23-3.png"],
+      "nama": "Room 2.3",
+       "harga": 250000,
+      "fasilitas": ["-", "2 People", "-", "Double Bed"],
+      "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+      "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+      "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+      "makananMinuman": ["-"],
+      "hiburan": ["30-inch LCD TV"],
+      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+    },
+    {
+      "img": ["w3-r24-1.png", "w3-r24-2.png", "w3-r24-3.png", "w3-r24-4.png"],
+      "nama": "Room 2.4",
+       "harga": 250000,
+      "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+      "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+      "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+      "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+      "makananMinuman": ["-"],
+      "hiburan": ["30-inch LCD TV"],
+      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+    },
+    {
+      "img": ["w3-r25-1.png", "w3-r25-2.png", "w3-r25-3.png", "w3-r25-4.png"],
+      "nama": "Room 2.5",
+       "harga": 250000,
+      "fasilitas": ["-", "2 People", "-", "Double Bed"],
+      "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+      "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+      "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+      "makananMinuman": ["-"],
+      "hiburan": ["30-inch LCD TV"],
+      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+    }
+  ],
+    "nama": "Wisma Sudirman 3",
+    "deskripsi": "Wisma tekMIRA memiliki kamar-kamar yang luas dan modern dengan berbagai tipe, mulai dari standard hingga suite. Setiap kamar dilengkapi dengan AC, TV, Wi-Fi, dan kamar mandi pribadi.",
+    "img": ["w3-1.png", "w3-2.png", "w3-3.png", "w3-4.png", "w3-5.png", "w3-6.png", "w3-7.png", "w3-8.png", "w3-9.png", "w3-10.png"],
+    "fasilitas": [["Alun-Alun Kota Bandung","1 km"],["Paskal Hyper Square","20 km"],["Bandung Train Station","100 km"]],
+    "detailFasilitas": {
+      "bandara": [["Soekarno-Hatta Internasional","50 km"], ["Kertajati Internasional","60 km"]],
+      "rumahSakit": [["Hasan Sadikin Bandung","20 km"],["Maya Panda Hospital","100 km"]],
+      "transportasiUmum": [["Stasiun Bandung","5 km"], ["Stasiun Leuwipanjang","5 km"], ["Stasiun Kereta Cepat Whoosh (Padalarang)","5 km"], ["Stasiun Kereta Cepat Whoosh (Tegalluar)","5 km"]],
+      "belanja": [["Cihamplas Walk","5 km"], ["Paris Van Java","5 km"], ["Paskal Hyper Square","5 km"], ["Bandung Indah Plaza","5 km"]],
+      "areaLuar": [["Alun-alun Kota Bandung","5 km"], ["Taman Lalulintas","5 km"], ["Jalan Braga","5 km"], ["Jalan Sudirman","5 km"]]
+    },
+    "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
+    "spesifikasi": {
+      "ukuran": "-",
+      "hubungi": "08112330483",
+      "kapasitas": "-"
+    }
+  },
+  {
+    "slug": "wisma-sudirman-4",
+    "kategori": "Wisma",
+    "kamar":[
+      {
+        "img": ["w4-r1-1.png", "w4-r1-2.png", "w4-r1-3.png", "w4-r1-4.png"],
+        "nama": "Room 1.1",
+        "harga": 250000,
+        "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+        "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+        "makananMinuman": ["Free bottled water", "Room service (limited)"],
+        "hiburan": ["30-inch LCD TV"],
+        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      },
+      {
+        "img": ["w4-r12-1.png", "w4-r12-2.png", "w4-r12-3.png", "w4-r12-4.png"],
+        "nama": "Room 1.2",
+        "harga": 250000,
+        "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+        "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+        "makananMinuman": ["Free bottled water", "Room service (limited)"],
+        "hiburan": ["30-inch LCD TV"],
+        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      },
+      {
+        "img": ["w4-r13-1.png", "w4-r13-2.png", "w4-r13-3.png"],
+        "nama": "Room 1.3",
+        "harga": 250000,
+        "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+        "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+        "makananMinuman": ["Free bottled water", "Room service (limited)"],
+        "hiburan": ["30-inch LCD TV"],
+        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      },
+      {
+        "img": ["w4-r21-1.png", "w4-r21-2.png", "w4-r21-3.png", "w4-r21-4.png"],
+        "nama": "Room 2.1",
+        "harga": 250000,
+        "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+        "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+        "makananMinuman": ["Free bottled water", "Room service (limited)"],
+        "hiburan": ["30-inch LCD TV"],
+        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      },
+      {
+        "img": ["w4-r22-1.png", "w4-r22-2.png", "w4-r22-3.png", "w4-r22-4.png"],
+        "nama": "Room 2.2",
+        "harga": 250000,
+        "fasilitas": ["-", "2 People", "-", "1 King Bed"],
+        "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+        "makananMinuman": ["Free bottled water", "Room service (limited)"],
+        "hiburan": ["30-inch LCD TV"],
+        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      },
+      {
+        "img": ["w4-r23-1.png", "w4-r23-2.png"],
+        "nama": "Room 2.3",
+        "harga": 250000,
+        "fasilitas": ["-", "2 People", "-", "Double Bed"],
+        "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+        "makananMinuman": ["Free bottled water", "Room service (limited)"],
+        "hiburan": ["30-inch LCD TV"],
+        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      },
+      {
+        "img": ["w4-r24-1.png", "w4-r24-2.png"],
+        "nama": "Room 2.4",
+        "harga": 250000,
+        "fasilitas": ["-", "2 People", "-", "Double Bed"],
+        "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
+        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
+        "makananMinuman": ["Free bottled water", "Room service (limited)"],
+        "hiburan": ["30-inch LCD TV"],
+        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      }
+  ],
+  "nama": "Wisma Sudirman 4",
+  "deskripsi": "Wisma tekMIRA memiliki kamar-kamar yang luas dan modern dengan berbagai tipe, mulai dari standard hingga suite. Setiap kamar dilengkapi dengan AC, TV, Wi-Fi, dan kamar mandi pribadi.",
+  "img": ["w3-1.png", "w3-2.png", "w3-3.png", "w3-4.png", "w3-5.png", "w3-6.png", "w3-7.png", "w3-8.png", "w3-9.png", "w3-10.png"],
+  "fasilitas": [["Alun-Alun Kota Bandung","1 km"],["Paskal Hyper Square","20 km"],["Bandung Train Station","100 km"]],
+  "detailFasilitas": {
+    "bandara": [["Soekarno-Hatta Internasional","50 km"], ["Kertajati Internasional","60 km"]],
+    "rumahSakit": [["Hasan Sadikin Bandung","20 km"],["Maya Panda Hospital","100 km"]],
+    "transportasiUmum": [["Stasiun Bandung","5 km"], ["Stasiun Leuwipanjang","5 km"], ["Stasiun Kereta Cepat Whoosh (Padalarang)","5 km"], ["Stasiun Kereta Cepat Whoosh (Tegalluar)","5 km"]],
+    "belanja": [["Cihamplas Walk","5 km"], ["Paris Van Java","5 km"], ["Paskal Hyper Square","5 km"], ["Bandung Indah Plaza","5 km"]],
+    "areaLuar": [["Alun-alun Kota Bandung","5 km"], ["Taman Lalulintas","5 km"], ["Jalan Braga","5 km"], ["Jalan Sudirman","5 km"]]
+  },
+  "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
+  "spesifikasi": {
+    "ukuran": "-",
+    "hubungi": "08112330483",
+    "kapasitas": "-"
+  }
+  },
+  {
+    "slug": "gedung-s-m-sair",
+    "kategori": "Wedding",
+    "nama": "Gedung S.M. SAIR",
+    "deskripsi": "Ruang Mewah, Fasilitas Lengkap, dan Lokasi Strategis untuk Pernikahan Impian Anda!",
+    "img": ["sm 1.png","sm 2.png","sm 3.png","sm 4.png","sm 5.png","sm 6.png","sm 7.png"],
+    "fasilitas": ["AC", "Projektor", "Wifi", "Speaker"],
+    "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
+    "spesifikasi": {
+      "ukuran": "6 x 4m",
+      "hubungi": "08112330483",
+      "kapasitas": 1000
+    },
+    "keterangan": [
+      {
+        "judul": "Spesifikasi:",
+        "detail": ["Luas ruangan: 49.5m x 8.5m", "Panggung Modular: 3m x 3m", "Ruang ganti / rias: 1 ruangan", "Lobby: 42 m x 8.5 m", "AC Standing 5 PK: 4 unit", "Kapasitas listrik: 20.000 watt dan backup genset", "Kursi: 50 buah"]
+      }
+    ],
+    "keteranganLebihRinci": [
+      {
+        "judul": "Ketentuan waktu resepsi dan bongkaran",
+        "detail": [
+          {"judul": "Resepsi pagi:", "detail": ["Acara resepsi maksimal s.d jam 14:00 WIB", "Bongkaran maksimal s.d jam 16:00 WIB"]},
+          {"judul": "Resepsi malam:", "detail": ["Acara resepsi maksimal s.d jam 21:00 WIB", "Bongkaran maksimal s.d jam 23:00 WIB"]}
+      ]
+      },
+      {
+        "judul": "Kelebihan waktu resepsi dan bongkaran akan dikenakan biaya Rp750.000/jam",
+        "detail": []
+      },
+      {
+        "judul": "Kelebihan waktu resepsi dan bongkaran akan dikenakan biaya Rp750.000/jam",
+        "detail": []
+      },
+      {
+        "judul": "Tambahan kursi dikenakan tarif Rp10.000/kursi",
+        "detail": []
+      }
+    ]
+  },
+  {
+    "slug": "batubara-hall",
+    "kategori": "Wedding",
+    "nama": "Batubara Hall",
+    "deskripsi": "Ruang Mewah, Fasilitas Lengkap, dan Lokasi Strategis untuk Pernikahan Impian Anda!",
+    "img": ["bh1.png","bh2.png","bh3.png"],
+    "fasilitas": ["AC", "Projektor", "Wifi", "Speaker"],
+    "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
+    "spesifikasi": {
+      "ukuran": "6 x 4m",
+      "hubungi": "08112330483",
+      "kapasitas": "800 - 1000"
+    },
+    "keterangan": [
+      {
+        "judul": "Spesifikasi:",
+        "detail": ["Luas ruangan: 49.5m x 8.5m", "Panggung Modular: 3m x 3m", "Ruang ganti / rias: 1 ruangan", "Lobby: 42 m x 8.5 m", "AC Standing 5 PK: 4 unit", "Kapasitas listrik: 20.000 watt dan backup genset", "Kursi: 50 buah"]
+      }
+    ],
+    "keteranganLebihRinci": [
+      {
+        "judul": "Ketentuan waktu resepsi dan bongkaran",
+        "detail": [
+          {"judul": "Resepsi pagi:", "detail": ["Acara resepsi maksimal s.d jam 14:00 WIB", "Bongkaran maksimal s.d jam 16:00 WIB"]},
+          {"judul": "Resepsi malam:", "detail": ["Acara resepsi maksimal s.d jam 21:00 WIB", "Bongkaran maksimal s.d jam 23:00 WIB"]}
+      ]
+      },
+      {
+        "judul": "Kelebihan waktu resepsi dan bongkaran akan dikenakan biaya Rp750.000/jam",
+        "detail": []
+      },
+      {
+        "judul": "Kelebihan waktu resepsi dan bongkaran akan dikenakan biaya Rp750.000/jam",
+        "detail": []
+      },
+      {
+        "judul": "Tambahan kursi dikenakan tarif Rp10.000/kursi",
+        "detail": []
+      }
+    ]
+  }
+]
+
