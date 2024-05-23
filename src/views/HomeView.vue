@@ -86,7 +86,7 @@ export default {
       return v.includes('Ruang Rapat') ? 'meeting' : v.includes('Wedding') ? 'wedding' : v.includes('tenis') ? 'tenis' : v.includes('wisma') ? 'wisma' : 'wisma';
     },
     cekKategoriImg(v) {
-      return v.includes('Ruang Rapat') ? 'ra1.png' : v.includes('Wedding') ? 'sm1.png' : v.includes('Tenis') ? 'tns1-1.png' : 'w2-6.png';
+      return v.includes('Ruang Rapat') ? 'ra1.png' : v.includes('Wedding') ? 'kategori4.png' : v.includes('Tenis') ? 'tns1-1.png' : 'w2-6.png';
     },
     hitungJumlahTempat() {
       const tempatPerKategori = this.dataTempat.reduce((acc, curr) => {

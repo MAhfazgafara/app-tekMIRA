@@ -50,8 +50,6 @@
       <div v-if="$route.path.includes('/meeting')"
         class="relative w-full rounded-2xl bg-no-repeat bg-cover bg-center h-[180px]"
         :style="{ backgroundImage: `url(${require('@/assets/images/ra1.png')})`, boxShadow: '0px 4px 6px rgba(0, 0, 0, 0.1)' }">
-
-
       </div>
       <div v-else-if="$route.path.includes('/wedding')"
         class="relative w-full rounded-2xl bg-no-repeat bg-cover bg-center h-[180px]"
