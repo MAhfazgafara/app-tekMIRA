@@ -18,7 +18,7 @@
     "img": ["tns2-1.png","tns2-2.png","tns2-3.png","tns2-4.png","tns2-5.png"],
     "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
     "spesifikasi": {
-      "ukuran": "6 x 4m",
+      "ukuran": "-",
       "hubungi": "08112330483",
       "kapasitas": 20
     }
@@ -30,10 +30,10 @@
     "nama": "Ruang Rapat Lantai 14 Utara",
     "deskripsi": "Ruang Rapat Lantai 14 Utara ini adalah tempat untuk mengadakan pertemuan eksternal ataupun rapat internal. Memiliki fasilitas yang dapat memenuhi pertemuan dan kebutuhan anda dengan nyaman.",
     "img": ["r14-1u.png","r14-2u.png","r14-3u.png","r14-4u.png","r14-5u.png","r14-6u.png"],
-    "fasilitas": ["AC", "Projektor", "Wifi", "Speaker", "Papan Tulis"],
+    "fasilitas": ["AC", "Projektor", "Wifi", "Papan Tulis"],
     "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
     "spesifikasi": {
-      "ukuran": "6 x 4m",
+      "ukuran": "-",
       "hubungi": "08112330483",
       "kapasitas": 20
     }
@@ -63,7 +63,7 @@
         "harga": 200000,
         "fasilitas": ["-", "2 People", "-", "1 King Bed"],
         "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
-        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarMandi": ["Water Heater", "Shower", "Toilet", "Mirror"],
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water"],
         "hiburan": ["30-inch LCD TV"],
@@ -75,7 +75,7 @@
         "harga": 200000,
         "fasilitas": ["-", "2 People", "-", "1 King Bed"],
         "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
-        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarMandi": ["Water Heater", "Shower", "Toilet", "Mirror"],
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water"],
         "hiburan": ["30-inch LCD TV"],
@@ -87,7 +87,7 @@
         "harga": 200000,
         "fasilitas": ["-", "2 People", "-", "1 King Bed"],
         "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
-        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarMandi": ["Water Heater", "Shower", "Toilet", "Mirror"],
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water"],
         "hiburan": ["30-inch LCD TV"],
@@ -99,7 +99,7 @@
         "harga": 200000,
         "fasilitas": ["-", "2 People", "-", "1 King Bed"],
         "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
-        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarMandi": ["Water Heater", "Shower", "Toilet", "Mirror"],
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
@@ -109,14 +109,14 @@
     "nama": "Wisma Sudirman 2",
     "deskripsi": "Wisma tekMIRA memiliki kamar-kamar yang luas dan modern dengan berbagai tipe, mulai dari standard hingga suite. Setiap kamar dilengkapi dengan AC, TV, Wi-Fi, dan kamar mandi pribadi.",
     "img": ["w2-1.png","w2-2.png","w2-3.png","w2-4.png","w2-5.png","w2-6.png","w2-7.png","w2-8.png","w2-9.png","w2-10.png","w2-11.png","w2-12.png","w2-13.png","w2-14.png"],
-    "fasilitas": [["Alun-Alun Kota Bandung","1 km"],["Paskal Hyper Square","20 km"],["Bandung Train Station","100 km"]],
+    "fasilitas": [["Alun-Alun Kota Bandung","4 km"],["Paskal Hyper Square","2 km"],["Bandung Train Station","4 km"]],
     "detailFasilitas": {
-      "bandara": [["Soekarno-Hatta Internasional","50 km"], ["Kertajati Internasional","60 km"]],
-      "rumahSakit": [["Hasan Sadikin Bandung","20 km"],["Maya Panda Hospital","100 km"]],
-      "transportasiUmum": [["Stasiun Bandung","5 km"], ["Stasiun Leuwipanjang","5 km"], ["Stasiun Kereta Cepat Whoosh (Padalarang)","5 km"], ["Stasiun Kereta Cepat Whoosh (Tegalluar)","5 km"]],
-      "belanja": [["Cihamplas Walk","5 km"], ["Paris Van Java","5 km"], ["Paskal Hyper Square","5 km"], ["Bandung Indah Plaza","5 km"]],
-      "areaLuar": [["Alun-alun Kota Bandung","5 km"], ["Taman Lalulintas","5 km"], ["Jalan Braga","5 km"], ["Jalan Sudirman","5 km"]]
-    },
+    "bandara": [["Soekarno-Hatta Internasional","185 km"], ["Kertajati Internasional","100 km"]],
+    "rumahSakit": [["Hasan Sadikin Bandung","5 km"],["Maya Panda Hospital","10 km"]],
+    "transportasiUmum": [["Stasiun Bandung","4 km"], ["Stasiun Leuwipanjang","5 km"], ["Stasiun Kereta Cepat Whoosh (Padalarang)","16 km"], ["Stasiun Kereta Cepat Whoosh (Tegalluar)","22 km"]],
+    "belanja": [["Cihamplas Walk","6 km"], ["Paris Van Java","6 km"], ["Paskal Hyper Square","2 km"], ["Bandung Indah Plaza","5 km"]],
+    "areaLuar": [["Alun-alun Kota Bandung","5 km"], ["Taman Lalulintas","5 km"], ["Jalan Braga","4 km"], ["Jalan Sudirman","3 km"]]
+  },
     "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
     "spesifikasi": {
       "ukuran": "-",
@@ -143,7 +143,7 @@
     {
       "img": ["w3-r2-1.png", "w3-r2-2.png", "w3-r2-3.png", "w3-r2-4.png"],
       "nama": "Room 1.2",
-       "harga": 250000,
+      "harga": 250000,
       "fasilitas": ["-", "2 People", "-", "1 King Bed"],
       "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
       "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
@@ -155,7 +155,7 @@
     {
       "img": ["w3-r21-1.png", "w3-r21-2.png", "w3-r21-3.png", "w3-r21-4.png"],
       "nama": "Room 2.1",
-       "harga": 250000,
+      "harga": 250000,
       "fasilitas": ["-", "2 People", "-", "1 King Bed"],
       "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
       "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
@@ -216,14 +216,14 @@
     "nama": "Wisma Sudirman 3",
     "deskripsi": "Wisma tekMIRA memiliki kamar-kamar yang luas dan modern dengan berbagai tipe, mulai dari standard hingga suite. Setiap kamar dilengkapi dengan AC, TV, Wi-Fi, dan kamar mandi pribadi.",
     "img": ["w3-1.png", "w3-2.png", "w3-3.png", "w3-4.png", "w3-5.png", "w3-6.png", "w3-7.png", "w3-8.png", "w3-9.png", "w3-10.png"],
-    "fasilitas": [["Alun-Alun Kota Bandung","1 km"],["Paskal Hyper Square","20 km"],["Bandung Train Station","100 km"]],
+    "fasilitas": [["Alun-Alun Kota Bandung","4 km"],["Paskal Hyper Square","2 km"],["Bandung Train Station","4 km"]],
     "detailFasilitas": {
-      "bandara": [["Soekarno-Hatta Internasional","50 km"], ["Kertajati Internasional","60 km"]],
-      "rumahSakit": [["Hasan Sadikin Bandung","20 km"],["Maya Panda Hospital","100 km"]],
-      "transportasiUmum": [["Stasiun Bandung","5 km"], ["Stasiun Leuwipanjang","5 km"], ["Stasiun Kereta Cepat Whoosh (Padalarang)","5 km"], ["Stasiun Kereta Cepat Whoosh (Tegalluar)","5 km"]],
-      "belanja": [["Cihamplas Walk","5 km"], ["Paris Van Java","5 km"], ["Paskal Hyper Square","5 km"], ["Bandung Indah Plaza","5 km"]],
-      "areaLuar": [["Alun-alun Kota Bandung","5 km"], ["Taman Lalulintas","5 km"], ["Jalan Braga","5 km"], ["Jalan Sudirman","5 km"]]
-    },
+    "bandara": [["Soekarno-Hatta Internasional","185 km"], ["Kertajati Internasional","100 km"]],
+    "rumahSakit": [["Hasan Sadikin Bandung","5 km"],["Maya Panda Hospital","10 km"]],
+    "transportasiUmum": [["Stasiun Bandung","4 km"], ["Stasiun Leuwipanjang","5 km"], ["Stasiun Kereta Cepat Whoosh (Padalarang)","16 km"], ["Stasiun Kereta Cepat Whoosh (Tegalluar)","22 km"]],
+    "belanja": [["Cihamplas Walk","6 km"], ["Paris Van Java","6 km"], ["Paskal Hyper Square","2 km"], ["Bandung Indah Plaza","5 km"]],
+    "areaLuar": [["Alun-alun Kota Bandung","5 km"], ["Taman Lalulintas","5 km"], ["Jalan Braga","4 km"], ["Jalan Sudirman","3 km"]]
+  },
     "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
     "spesifikasi": {
       "ukuran": "-",
@@ -241,7 +241,7 @@
         "harga": 250000,
         "fasilitas": ["-", "2 People", "-", "1 King Bed"],
         "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
-        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarMandi": ["Water Heater", "Shower", "Toilet", "Mirror"],
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
@@ -253,7 +253,7 @@
         "harga": 250000,
         "fasilitas": ["-", "2 People", "-", "1 King Bed"],
         "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
-        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarMandi": ["Water Heater", "Shower", "Toilet", "Mirror"],
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
@@ -265,7 +265,7 @@
         "harga": 250000,
         "fasilitas": ["-", "2 People", "-", "1 King Bed"],
         "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
-        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarMandi": ["Water Heater", "Shower", "Toilet", "Mirror"],
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
@@ -277,7 +277,7 @@
         "harga": 250000,
         "fasilitas": ["-", "2 People", "-", "1 King Bed"],
         "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
-        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarMandi": ["Water Heater", "Shower", "Toilet", "Mirror"],
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
@@ -289,7 +289,7 @@
         "harga": 250000,
         "fasilitas": ["-", "2 People", "-", "1 King Bed"],
         "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
-        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarMandi": ["Water Heater", "Shower", "Toilet", "Mirror"],
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
@@ -301,7 +301,7 @@
         "harga": 250000,
         "fasilitas": ["-", "2 People", "-", "Double Bed"],
         "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
-        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarMandi": ["Water Heater", "Shower", "Toilet", "Mirror"],
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
@@ -313,7 +313,7 @@
         "harga": 250000,
         "fasilitas": ["-", "2 People", "-", "Double Bed"],
         "aksesibilitas": ["Doorbell/phone notification", "Visual fire alarm"],
-        "kamarMandi": ["Free toiletries", "Hydromassage showerhead", "Private bathroom", "Shampoo", "Shower", "Slippers", "Soap", "Toilet paper", "Towels"],
+        "kamarMandi": ["Water Heater", "Shower", "Toilet", "Mirror"],
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
@@ -323,13 +323,13 @@
   "nama": "Wisma Sudirman 4",
   "deskripsi": "Wisma tekMIRA memiliki kamar-kamar yang luas dan modern dengan berbagai tipe, mulai dari standard hingga suite. Setiap kamar dilengkapi dengan AC, TV, Wi-Fi, dan kamar mandi pribadi.",
   "img": ["w3-1.png", "w3-2.png", "w3-3.png", "w3-4.png", "w3-5.png", "w3-6.png", "w3-7.png", "w3-8.png", "w3-9.png", "w3-10.png"],
-  "fasilitas": [["Alun-Alun Kota Bandung","1 km"],["Paskal Hyper Square","20 km"],["Bandung Train Station","100 km"]],
+  "fasilitas": [["Alun-Alun Kota Bandung","4 km"],["Paskal Hyper Square","2 km"],["Bandung Train Station","4 km"]],
   "detailFasilitas": {
-    "bandara": [["Soekarno-Hatta Internasional","50 km"], ["Kertajati Internasional","60 km"]],
-    "rumahSakit": [["Hasan Sadikin Bandung","20 km"],["Maya Panda Hospital","100 km"]],
-    "transportasiUmum": [["Stasiun Bandung","5 km"], ["Stasiun Leuwipanjang","5 km"], ["Stasiun Kereta Cepat Whoosh (Padalarang)","5 km"], ["Stasiun Kereta Cepat Whoosh (Tegalluar)","5 km"]],
-    "belanja": [["Cihamplas Walk","5 km"], ["Paris Van Java","5 km"], ["Paskal Hyper Square","5 km"], ["Bandung Indah Plaza","5 km"]],
-    "areaLuar": [["Alun-alun Kota Bandung","5 km"], ["Taman Lalulintas","5 km"], ["Jalan Braga","5 km"], ["Jalan Sudirman","5 km"]]
+    "bandara": [["Soekarno-Hatta Internasional","185 km"], ["Kertajati Internasional","100 km"]],
+    "rumahSakit": [["Hasan Sadikin Bandung","5 km"],["Maya Panda Hospital","10 km"]],
+    "transportasiUmum": [["Stasiun Bandung","4 km"], ["Stasiun Leuwipanjang","5 km"], ["Stasiun Kereta Cepat Whoosh (Padalarang)","16 km"], ["Stasiun Kereta Cepat Whoosh (Tegalluar)","22 km"]],
+    "belanja": [["Cihamplas Walk","6 km"], ["Paris Van Java","6 km"], ["Paskal Hyper Square","2 km"], ["Bandung Indah Plaza","5 km"]],
+    "areaLuar": [["Alun-alun Kota Bandung","5 km"], ["Taman Lalulintas","5 km"], ["Jalan Braga","4 km"], ["Jalan Sudirman","3 km"]]
   },
   "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
   "spesifikasi": {
@@ -354,7 +354,7 @@
     "keterangan": [
       {
         "judul": "Spesifikasi:",
-        "detail": ["Luas ruangan: 49.5m x 8.5m", "Panggung Modular: 3m x 3m", "Ruang ganti / rias: 1 ruangan", "Lobby: 42 m x 8.5 m", "AC Standing 5 PK: 4 unit", "Kapasitas listrik: 20.000 watt dan backup genset", "Kursi: 50 buah"]
+        "detail": ["Luas ruangan: 20 x 30m", "Panggung Modular: 12.4 x 5.9m", "Ruang ganti / rias: 2 ruangan", "Lobby: 15 x 20 m", "AC Standing 15 PK: 1 unit", "AC Standing 10 PK: 1 unit", "AC Standing 5 PK: 3 unit", "Kapasitas listrik: 40.000 watt dan backup genset", "Kursi: 100 buah"]
       }
     ],
     "keteranganLebihRinci": [
