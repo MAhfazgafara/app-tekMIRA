@@ -30,7 +30,7 @@
             transportasi. Wisma ini menawarkan berbagai fasilitas dan layanan yang lengkap untuk memenuhi kebutuhan
             Anda, baik untuk keperluan bisnis, maupun acara spesial.
           </p>
-          <a :href="`http://wa.me/6285795111965?text=Hallo%20admin%20TekMIRA,%20saya%20mau%20nanya-nanya%20dong.`"
+          <a :href="`http://wa.me/628112330483?text=Hallo%20admin%20TekMIRA,%20saya%20mau%20tanya.`"
             class="px-[24px] py-[16px] rounded-md bg-white hover:opacity-[0.8] flex items-center gap-2 w-fit"><img
               :src="require('@/assets/icons/wa.png')" class="inline w-[24px] h-[24px]" />HUBUNGI SEKARANG</a>
         </div>

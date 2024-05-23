@@ -101,7 +101,7 @@
           </div>
         </div>
         <div class="flex justify-end mt-[24px] items-center">
-          <a :href="`http://wa.me/6285795111965?text=Hallo%20admin%20TekMIRA,%20saya%20mau%20reservasi%20kamar%20${detailTempat.kamar[showModalRoom].nama}%20-%20${detailTempat.nama}.`"
+          <a :href="`http://wa.me/628112330483?text=Hallo%20admin%20TekMIRA,%20saya%20mau%20reservasi%20kamar%20${detailTempat.kamar[showModalRoom].nama}%20-%20${detailTempat.nama}.`"
             class="ml-auto text-sm font-semibold text-white bg-[#245785] px-[16px] py-[8px] rounded-md cursor-pointer hover:opacity-[0.8]">Reservasi</a>
         </div>
       </div>
@@ -203,7 +203,7 @@
           <div class="flex flex-col w-full justify-start gap-8 border-solid border-t-[2px] border-gray-300 py-[24px]">
             <p>{{ detailTempat.deskripsi }}</p>
             <a v-if="detailTempat.kategori !== 'Wisma'"
-              :href="`http://wa.me/6285795111965?text=Hallo%20admin%20TekMIRA,%20saya%20mau%20booking%20tempat%20${detailTempat.kategori}.`"
+              :href="`http://wa.me/628112330483?text=Hallo%20admin%20TekMIRA,%20saya%20mau%20booking%20tempat%20${detailTempat.kategori}.`"
               target="_blank"
               class="px-[34px] py-[16px] md:px-[52px] md:py-[16px] rounded-md bg-white hover:opacity-[0.8] w-fit flex items-center gap-2"><img
                 :src="require('@/assets/icons/wa.png')" class="inline w-[24px] h-[24px]" />PESAN SEKARANG!</a>
@@ -232,7 +232,9 @@
           </div>
           <div
             :class="`${detailTempat.kategori !== 'Tenis' ? '' : 'hidden'} w-full px-[24px] py-[24px] bg-white shadow-sm rounded-xl`">
-
+            <h3 class="text-md md:text-lg font-semibold mb-6">
+              {{ detailTempat.kategori === 'Wisma' ? 'Fasilitas Utama' : 'Tempat Populer' }}
+            </h3>
             <div class="flex flex-wrap">
               <div v-for="(v, i) in detailTempat.fasilitas" :key="i"
                 :class="`${detailTempat.kategori !== 'Wisma' ? 'w-1/2' : 'w-full'} flex mb-[8px] gap-4`">
@@ -263,6 +265,7 @@
                   <li>Sesi 08:00 - 09:00</li>
                   <li>Sesi 09:00 - 10:00</li>
                   <li>Sesi 10:00 - 11:00</li>
+                  <li>Sesi 11:00 - 12:00</li>
                   <li>Sesi 12:00 - 13:00</li>
                   <li>Sesi 13:00 - 14:00</li>
                   <li>Sesi 14:00 - 15:00</li>
@@ -288,6 +291,7 @@
                   <li>Sesi 08:00 - 09:00</li>
                   <li>Sesi 09:00 - 10:00</li>
                   <li>Sesi 10:00 - 11:00</li>
+                  <li>Sesi 11:00 - 12:00</li>
                   <li>Sesi 12:00 - 13:00</li>
                   <li>Sesi 13:00 - 14:00</li>
                   <li>Sesi 14:00 - 15:00</li>
@@ -329,7 +333,7 @@
               <div class="flex justify-end mt-[24px] items-center">
                 <span @click="showModalRoom = i"
                   class="text-[#2587FB] text-sm font-semibold cursor-pointer hover:opacity-[0.8]">More Detail</span>
-                <a :href="`http://wa.me/6285795111965?text=Hallo%20admin%20TekMIRA,%20saya%20mau%20reservasi%20kamar%20${v.nama}%20-%20${detailTempat.nama}.`"
+                <a :href="`http://wa.me/628112330483?text=Hallo%20admin%20TekMIRA,%20saya%20mau%20reservasi%20kamar%20${v.nama}%20-%20${detailTempat.nama}.`"
                   class="ml-auto text-sm font-semibold text-white bg-[#245785] px-[16px] py-[8px] rounded-md cursor-pointer hover:opacity-[0.8]">Reservasi</a>
               </div>
             </div>

@@ -67,7 +67,7 @@
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water"],
         "hiburan": ["30-inch LCD TV"],
-        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+        "lainnya": ["Desk"]
       },
       {
         "img": ["w2-r2-1.png", "w2-r2-2.png"],
@@ -79,7 +79,7 @@
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water"],
         "hiburan": ["30-inch LCD TV"],
-        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+        "lainnya": ["Desk"]
       },
       {
         "img": ["w2-r3-1.png", "w2-r3-2.png"],
@@ -91,7 +91,7 @@
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water"],
         "hiburan": ["30-inch LCD TV"],
-        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+        "lainnya": ["Desk"]
       },
       {
         "img": ["w2-r4-1.png", "w2-r4-2.png", "w2-r4-3.png"],
@@ -103,7 +103,7 @@
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
-        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+        "lainnya": ["Desk"]
       }
     ],
     "nama": "Wisma Sudirman 2",
@@ -138,7 +138,7 @@
       "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
       "makananMinuman": ["-"],
       "hiburan": ["30-inch LCD TV"],
-      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      "lainnya": ["Desk"]
     },
     {
       "img": ["w3-r2-1.png", "w3-r2-2.png", "w3-r2-3.png", "w3-r2-4.png"],
@@ -150,7 +150,7 @@
       "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
       "makananMinuman": ["-"],
       "hiburan": ["30-inch LCD TV"],
-      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      "lainnya": ["Desk"]
     },
     {
       "img": ["w3-r21-1.png", "w3-r21-2.png", "w3-r21-3.png", "w3-r21-4.png"],
@@ -162,7 +162,7 @@
       "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
       "makananMinuman": ["-"],
       "hiburan": ["30-inch LCD TV"],
-      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      "lainnya": ["Desk"]
     },
     {
       "img": ["w3-r22-1.png", "w3-r22-2.png", "w3-r22-3.png", "w3-r22-4.png"],
@@ -174,7 +174,7 @@
       "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
       "makananMinuman": ["-"],
       "hiburan": ["30-inch LCD TV"],
-      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      "lainnya": ["Desk"]
     },
     {
       "img": ["w3-r23-1.png", "w3-r23-2.png", "w3-r23-3.png"],
@@ -186,7 +186,7 @@
       "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
       "makananMinuman": ["-"],
       "hiburan": ["30-inch LCD TV"],
-      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      "lainnya": ["Desk"]
     },
     {
       "img": ["w3-r24-1.png", "w3-r24-2.png", "w3-r24-3.png", "w3-r24-4.png"],
@@ -198,7 +198,7 @@
       "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
       "makananMinuman": ["-"],
       "hiburan": ["30-inch LCD TV"],
-      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      "lainnya": ["Desk"]
     },
     {
       "img": ["w3-r25-1.png", "w3-r25-2.png", "w3-r25-3.png", "w3-r25-4.png"],
@@ -210,7 +210,7 @@
       "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
       "makananMinuman": ["-"],
       "hiburan": ["30-inch LCD TV"],
-      "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+      "lainnya": ["Desk"]
     }
   ],
     "nama": "Wisma Sudirman 3",
@@ -245,7 +245,7 @@
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
-        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+        "lainnya": ["Desk"]
       },
       {
         "img": ["w4-r12-1.png", "w4-r12-2.png", "w4-r12-3.png", "w4-r12-4.png"],
@@ -257,7 +257,7 @@
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
-        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+        "lainnya": ["Desk"]
       },
       {
         "img": ["w4-r13-1.png", "w4-r13-2.png", "w4-r13-3.png"],
@@ -269,7 +269,7 @@
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
-        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+        "lainnya": ["Desk"]
       },
       {
         "img": ["w4-r21-1.png", "w4-r21-2.png", "w4-r21-3.png", "w4-r21-4.png"],
@@ -281,7 +281,7 @@
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
-        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+        "lainnya": ["Desk"]
       },
       {
         "img": ["w4-r22-1.png", "w4-r22-2.png", "w4-r22-3.png", "w4-r22-4.png"],
@@ -293,7 +293,7 @@
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
-        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+        "lainnya": ["Desk"]
       },
       {
         "img": ["w4-r23-1.png", "w4-r23-2.png"],
@@ -305,7 +305,7 @@
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
-        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+        "lainnya": ["Desk"]
       },
       {
         "img": ["w4-r24-1.png", "w4-r24-2.png"],
@@ -317,7 +317,7 @@
         "kamarTidur": ["Bed sheets", "Blackout curtains", "No cots (infant beds) available", "Premium bedding", "No rollaway/extra beds available"],
         "makananMinuman": ["Free bottled water", "Room service (limited)"],
         "hiburan": ["30-inch LCD TV"],
-        "lainnya": ["Daily housekeeping", "Desk", "Electrical adaptors/chargers", "Guidebooks", "Individually decorated", "Individually furnished", "Laptop workspace", "Local maps", "Phone", "Soundproofed rooms", "Window screens"]
+        "lainnya": ["Desk"]
       }
   ],
   "nama": "Wisma Sudirman 4",
@@ -347,7 +347,7 @@
     "fasilitas": ["AC", "Projektor", "Wifi", "Speaker"],
     "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
     "spesifikasi": {
-      "ukuran": "6 x 4m",
+      "ukuran": "-",
       "hubungi": "08112330483",
       "kapasitas": 1000
     },
@@ -388,7 +388,7 @@
     "fasilitas": ["AC", "Projektor", "Wifi", "Speaker"],
     "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
     "spesifikasi": {
-      "ukuran": "6 x 4m",
+      "ukuran": "-",
       "hubungi": "08112330483",
       "kapasitas": "800 - 1000"
     },
