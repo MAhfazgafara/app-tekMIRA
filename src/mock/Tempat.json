@@ -48,9 +48,9 @@
     "fasilitas": ["AC", "Projektor", "Wifi", "Speaker", "Papan Tulis", "Microphone"],
     "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
     "spesifikasi": {
-      "ukuran": "6 x 4m",
+      "ukuran": "-",
       "hubungi": "08112330483",
-      "kapasitas": 20
+      "kapasitas": "-"
     }
   },
   {
@@ -347,14 +347,14 @@
     "fasilitas": ["AC", "Projektor", "Wifi", "Speaker"],
     "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
     "spesifikasi": {
-      "ukuran": "-",
+      "ukuran": "20m x 30m",
       "hubungi": "08112330483",
       "kapasitas": 1000
     },
     "keterangan": [
       {
         "judul": "Spesifikasi:",
-        "detail": ["Luas ruangan: 20 x 30m", "Panggung Modular: 12.4 x 5.9m", "Ruang ganti / rias: 2 ruangan", "Lobby: 15 x 20 m", "AC Standing 15 PK: 1 unit", "AC Standing 10 PK: 1 unit", "AC Standing 5 PK: 3 unit", "Kapasitas listrik: 40.000 watt dan backup genset", "Kursi: 100 buah"]
+        "detail": ["Luas ruangan: 20m x 30m", "Panggung Modular: 12.4 x 5.9m", "Ruang ganti / rias: 2 ruangan", "Lobby: 15 x 20 m", "AC Standing 15 PK: 1 unit", "AC Standing 10 PK: 1 unit", "AC Standing 5 PK: 3 unit", "Kapasitas listrik: 40.000 watt dan backup genset", "Kursi: 100 buah"]
       }
     ],
     "keteranganLebihRinci": [
@@ -388,7 +388,7 @@
     "fasilitas": ["AC", "Projektor", "Wifi", "Speaker"],
     "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
     "spesifikasi": {
-      "ukuran": "-",
+      "ukuran": "49.5m x 8.5m",
       "hubungi": "08112330483",
       "kapasitas": "800 - 1000"
     },
