@@ -429,10 +429,7 @@
         <ul class="w-[100%] md:w-[70%]">
           <li class="mb-[8px]">1) Penundaan/perubahan tanggal hanya dapat dilakukan paling lambat 2 (dua) bulan sebelum
             tanggal Penggunaan Gedung.</li>
-          <li class="mb-[8px]">2) Penundaan/perubahan tanggal acara yang dilakukan kurang dari 2 (dua) bulan sebelum
-            tanggal
-            Penggunaan Gedung, dianggap sebagai pembatalan.</li>
-          <li class="mb-[8px]">3) Untuk perubahan tanggal sebagaimana dimaksud pada angka 1) hanya dapat dilakukan 1
+          <li class="mb-[8px]">2) Untuk perubahan tanggal sebagaimana dimaksud pada angka 1) hanya dapat dilakukan 1
             (satu)
             kali, dan perubahan tanggal tersebut maksimal sampai 3 (tiga) bulan berikutnya.</li>
         </ul>

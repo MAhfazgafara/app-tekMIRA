@@ -112,9 +112,9 @@
     "fasilitas": [["Alun-Alun Kota Bandung","4 km"],["Paskal Hyper Square","2 km"],["Bandung Train Station","4 km"]],
     "detailFasilitas": {
     "bandara": [["Soekarno-Hatta Internasional","185 km"], ["Kertajati Internasional","100 km"]],
-    "rumahSakit": [["Hasan Sadikin Bandung","5 km"],["Maya Panda Hospital","10 km"]],
+    "rumahSakit": [["Hasan Sadikin Bandung","5 km"],["Maya Pada Hospital","10 km"]],
     "transportasiUmum": [["Stasiun Bandung","4 km"], ["Stasiun Leuwipanjang","5 km"], ["Stasiun Kereta Cepat Whoosh (Padalarang)","16 km"], ["Stasiun Kereta Cepat Whoosh (Tegalluar)","22 km"]],
-    "belanja": [["Cihamplas Walk","6 km"], ["Paris Van Java","6 km"], ["Paskal Hyper Square","2 km"], ["Bandung Indah Plaza","5 km"]],
+    "belanja": [["Cihampelas Walk","6 km"], ["Paris Van Java","6 km"], ["Paskal Hyper Square","2 km"], ["Bandung Indah Plaza","5 km"]],
     "areaLuar": [["Alun-alun Kota Bandung","5 km"], ["Taman Lalulintas","5 km"], ["Jalan Braga","4 km"], ["Jalan Sudirman","3 km"]]
   },
     "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
@@ -219,9 +219,9 @@
     "fasilitas": [["Alun-Alun Kota Bandung","4 km"],["Paskal Hyper Square","2 km"],["Bandung Train Station","4 km"]],
     "detailFasilitas": {
     "bandara": [["Soekarno-Hatta Internasional","185 km"], ["Kertajati Internasional","100 km"]],
-    "rumahSakit": [["Hasan Sadikin Bandung","5 km"],["Maya Panda Hospital","10 km"]],
+    "rumahSakit": [["Hasan Sadikin Bandung","5 km"],["Maya Pada Hospital","10 km"]],
     "transportasiUmum": [["Stasiun Bandung","4 km"], ["Stasiun Leuwipanjang","5 km"], ["Stasiun Kereta Cepat Whoosh (Padalarang)","16 km"], ["Stasiun Kereta Cepat Whoosh (Tegalluar)","22 km"]],
-    "belanja": [["Cihamplas Walk","6 km"], ["Paris Van Java","6 km"], ["Paskal Hyper Square","2 km"], ["Bandung Indah Plaza","5 km"]],
+    "belanja": [["Cihampelas Walk","6 km"], ["Paris Van Java","6 km"], ["Paskal Hyper Square","2 km"], ["Bandung Indah Plaza","5 km"]],
     "areaLuar": [["Alun-alun Kota Bandung","5 km"], ["Taman Lalulintas","5 km"], ["Jalan Braga","4 km"], ["Jalan Sudirman","3 km"]]
   },
     "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
@@ -322,13 +322,13 @@
   ],
   "nama": "Wisma Sudirman 4",
   "deskripsi": "Wisma tekMIRA memiliki kamar-kamar yang luas dan modern dengan berbagai tipe, mulai dari standard hingga suite. Setiap kamar dilengkapi dengan AC, TV, Wi-Fi, dan kamar mandi pribadi.",
-  "img": ["w3-1.png", "w3-2.png", "w3-3.png", "w3-4.png", "w3-5.png", "w3-6.png", "w3-7.png", "w3-8.png", "w3-9.png", "w3-10.png"],
+  "img": ["w4-1.png", "w4-2.png", "w4-3.png", "w4-4.png", "w4-5.png", "w4-6.png", "w4-7.png", "w4-8.png", "w4-9.png", "w4-10.png"],
   "fasilitas": [["Alun-Alun Kota Bandung","4 km"],["Paskal Hyper Square","2 km"],["Bandung Train Station","4 km"]],
   "detailFasilitas": {
     "bandara": [["Soekarno-Hatta Internasional","185 km"], ["Kertajati Internasional","100 km"]],
-    "rumahSakit": [["Hasan Sadikin Bandung","5 km"],["Maya Panda Hospital","10 km"]],
+    "rumahSakit": [["Hasan Sadikin Bandung","5 km"],["Maya Pada Hospital","10 km"]],
     "transportasiUmum": [["Stasiun Bandung","4 km"], ["Stasiun Leuwipanjang","5 km"], ["Stasiun Kereta Cepat Whoosh (Padalarang)","16 km"], ["Stasiun Kereta Cepat Whoosh (Tegalluar)","22 km"]],
-    "belanja": [["Cihamplas Walk","6 km"], ["Paris Van Java","6 km"], ["Paskal Hyper Square","2 km"], ["Bandung Indah Plaza","5 km"]],
+    "belanja": [["Cihampelas Walk","6 km"], ["Paris Van Java","6 km"], ["Paskal Hyper Square","2 km"], ["Bandung Indah Plaza","5 km"]],
     "areaLuar": [["Alun-alun Kota Bandung","5 km"], ["Taman Lalulintas","5 km"], ["Jalan Braga","4 km"], ["Jalan Sudirman","3 km"]]
   },
   "lokasi": "Jalan Jend. Sudirman No.623, Wr. Muncang, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40211",
@@ -370,10 +370,6 @@
         "detail": []
       },
       {
-        "judul": "Kelebihan waktu resepsi dan bongkaran akan dikenakan biaya Rp750.000/jam",
-        "detail": []
-      },
-      {
         "judul": "Tambahan kursi dikenakan tarif Rp10.000/kursi",
         "detail": []
       }
@@ -405,10 +401,6 @@
           {"judul": "Resepsi pagi:", "detail": ["Acara resepsi maksimal s.d jam 14:00 WIB", "Bongkaran maksimal s.d jam 16:00 WIB"]},
           {"judul": "Resepsi malam:", "detail": ["Acara resepsi maksimal s.d jam 21:00 WIB", "Bongkaran maksimal s.d jam 23:00 WIB"]}
       ]
-      },
-      {
-        "judul": "Kelebihan waktu resepsi dan bongkaran akan dikenakan biaya Rp750.000/jam",
-        "detail": []
       },
       {
         "judul": "Kelebihan waktu resepsi dan bongkaran akan dikenakan biaya Rp750.000/jam",
